@@ -1,0 +1,86 @@
+ville,date_extraction,temperature,humidite,pression,description
+Sydney,2025-06-04 12:10:15,12.6,63,1019,légère pluie
+London,2025-06-04 12:10:09,16.25,58,1005,partiellement nuageux
+Tokyo,2025-06-04 12:10:09,26.13,62,999,partiellement nuageux
+New York,2025-06-04 12:10:14,16.21,70,1022,ciel dégagé
+Paris,2025-06-04 12:10:09,14.68,91,1010,couvert
+Sydney,2025-06-04 12:10:30,12.6,63,1019,légère pluie
+London,2025-06-04 12:10:28,16.25,58,1005,partiellement nuageux
+Tokyo,2025-06-04 12:10:28,26.13,62,999,partiellement nuageux
+New York,2025-06-04 12:10:27,16.21,70,1022,ciel dégagé
+Paris,2025-06-04 12:10:25,14.56,92,1010,bruine légère
+Sydney,2025-06-04 12:40:25,12.66,61,1020,pluie modérée
+London,2025-06-04 12:40:22,16.48,57,1006,peu nuageux
+Tokyo,2025-06-04 12:40:22,25.76,63,1000,peu nuageux
+New York,2025-06-04 12:40:25,16.08,71,1023,ciel dégagé
+Paris,2025-06-04 12:40:22,14.53,92,1010,bruine légère
+Sydney,2025-06-04 12:41:46,12.66,61,1020,pluie modérée
+London,2025-06-04 12:41:42,16.48,56,1006,peu nuageux
+Tokyo,2025-06-04 12:41:42,25.76,63,1000,peu nuageux
+New York,2025-06-04 12:41:46,16.08,71,1023,ciel dégagé
+Paris,2025-06-04 12:41:42,14.59,92,1010,bruine légère
+Sydney,2025-06-04 12:42:28,12.66,61,1020,pluie modérée
+London,2025-06-04 12:42:26,16.48,57,1006,peu nuageux
+Tokyo,2025-06-04 12:42:26,25.76,63,1000,peu nuageux
+New York,2025-06-04 12:42:28,16.16,71,1023,ciel dégagé
+Paris,2025-06-04 12:42:26,15.0,91,1010,bruine légère
+Sydney,2025-06-04 12:43:06,12.66,61,1020,pluie modérée
+London,2025-06-04 12:43:04,16.48,57,1006,peu nuageux
+Tokyo,2025-06-04 12:43:04,25.76,63,1000,peu nuageux
+New York,2025-06-04 12:43:06,16.08,71,1023,ciel dégagé
+Paris,2025-06-04 12:43:04,15.0,91,1010,bruine légère
+Sydney,2025-06-04 12:44:06,12.66,61,1020,pluie modérée
+London,2025-06-04 12:44:04,16.48,56,1006,peu nuageux
+Tokyo,2025-06-04 12:44:04,25.76,63,1000,peu nuageux
+New York,2025-06-04 12:44:06,16.16,71,1023,ciel dégagé
+Paris,2025-06-04 12:44:04,15.0,91,1010,bruine légère
+Sydney,2025-06-04 12:45:07,12.66,61,1020,pluie modérée
+London,2025-06-04 12:45:04,16.48,57,1006,peu nuageux
+Tokyo,2025-06-04 12:45:04,25.76,63,1000,peu nuageux
+New York,2025-06-04 12:45:07,16.16,71,1023,ciel dégagé
+Paris,2025-06-04 12:45:04,15.0,91,1010,bruine légère
+Sydney,2025-06-04 12:46:07,12.55,60,1020,pluie modérée
+London,2025-06-04 12:46:04,16.48,56,1006,peu nuageux
+Tokyo,2025-06-04 12:46:04,25.76,63,1000,peu nuageux
+New York,2025-06-04 12:46:07,16.08,71,1023,ciel dégagé
+Paris,2025-06-04 12:46:04,15.0,91,1010,bruine légère
+Sydney,2025-06-04 12:47:07,12.66,61,1020,pluie modérée
+London,2025-06-04 12:47:04,16.48,57,1006,peu nuageux
+Tokyo,2025-06-04 12:47:04,25.38,66,1000,peu nuageux
+New York,2025-06-04 12:47:07,16.16,71,1023,ciel dégagé
+Paris,2025-06-04 12:47:04,15.0,91,1010,bruine légère
+Sydney,2025-06-04 12:48:07,12.66,60,1020,pluie modérée
+London,2025-06-04 12:48:04,16.48,57,1006,peu nuageux
+Tokyo,2025-06-04 12:48:04,25.38,66,1000,peu nuageux
+New York,2025-06-04 12:48:07,16.16,71,1023,ciel dégagé
+Paris,2025-06-04 12:48:04,15.0,91,1010,bruine légère
+Sydney,2025-06-04 12:49:07,12.66,61,1020,pluie modérée
+London,2025-06-04 12:49:04,16.62,55,1006,peu nuageux
+Tokyo,2025-06-04 12:49:04,25.38,66,1000,peu nuageux
+New York,2025-06-04 12:49:07,16.16,71,1023,ciel dégagé
+Paris,2025-06-04 12:49:04,15.0,91,1010,bruine légère
+Sydney,2025-06-04 12:50:08,12.66,61,1020,pluie modérée
+London,2025-06-04 12:50:04,16.62,55,1006,peu nuageux
+Tokyo,2025-06-04 12:50:04,25.31,66,1000,peu nuageux
+New York,2025-06-04 12:50:08,16.08,71,1023,ciel dégagé
+Paris,2025-06-04 12:50:04,15.18,90,1010,couvert
+Sydney,2025-06-04 12:51:06,12.52,60,1020,pluie modérée
+London,2025-06-04 12:51:04,16.62,55,1006,peu nuageux
+Tokyo,2025-06-04 12:51:04,25.38,66,1000,peu nuageux
+New York,2025-06-04 12:51:06,16.16,71,1023,ciel dégagé
+Paris,2025-06-04 12:51:04,15.18,90,1010,couvert
+Sydney,2025-06-04 12:52:07,12.52,60,1020,pluie modérée
+London,2025-06-04 12:52:04,16.62,55,1006,peu nuageux
+Tokyo,2025-06-04 12:52:05,25.14,67,1000,peu nuageux
+New York,2025-06-04 12:52:06,16.14,72,1023,ciel dégagé
+Paris,2025-06-04 12:52:05,15.18,90,1010,couvert
+Sydney,2025-06-04 12:53:08,12.52,60,1020,pluie modérée
+London,2025-06-04 12:53:05,16.62,55,1006,peu nuageux
+Tokyo,2025-06-04 12:53:05,25.14,67,1000,peu nuageux
+New York,2025-06-04 12:53:08,16.14,72,1023,ciel dégagé
+Paris,2025-06-04 12:53:05,15.18,90,1010,couvert
+Sydney,2025-06-06 12:31:40,12.72,67,1016,ciel dégagé
+London,2025-06-06 12:31:36,15.0,87,1006,nuageux
+Tokyo,2025-06-06 12:31:36,24.18,64,1011,nuageux
+New York,2025-06-06 12:31:38,21.96,76,1014,ciel dégagé
+Paris,2025-06-06 12:31:35,17.79,76,1012,nuageux

@@ -1,0 +1,15 @@
+# Fichiers Jupyter Notebook
+*.ipynb
+
+# Fichier CSV
+Sample - Superstore.csv
+
+# Dossiers
+#.idea/
+#archive/
+#data/
+#meteo/
+airflow_env/
+# Fichier spécifique avec des caractères spéciaux
+Analyse_exploratoire_de_données_(EDA)_avec_Superstore.ipynb
+
